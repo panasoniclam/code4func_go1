@@ -1,0 +1,1 @@
+# code4func_go1
